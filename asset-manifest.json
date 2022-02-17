@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/PokedexProject/static/js/main.9056f65c.js",
+    "static/js/787.7e0b23c5.chunk.js": "/PokedexProject/static/js/787.7e0b23c5.chunk.js",
+    "index.html": "/PokedexProject/index.html",
+    "main.9056f65c.js.map": "/PokedexProject/static/js/main.9056f65c.js.map",
+    "787.7e0b23c5.chunk.js.map": "/PokedexProject/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9056f65c.js"
+  ]
+}
